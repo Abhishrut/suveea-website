@@ -1,0 +1,13 @@
+{
+  "name": "Suvéea",
+  "short_name": "Suvéea",
+  "description": "From Nature. Distilled with Tradition. Crafted by Suvéea.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0705",
+  "theme_color": "#0a0705",
+  "icons": [
+    { "src": "assets/icons/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
